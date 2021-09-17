@@ -1,0 +1,13 @@
+17-09-2021 11:03:35, Запрос к функции: get_country, Параметры: (<__main__.WikiLinks object at 0x00000227F7E381F0>, 1), {}
+17-09-2021 11:03:37, Запрос к функции: get_country, Параметры: (<__main__.WikiLinks object at 0x00000227F7E381F0>, 2), {}
+17-09-2021 11:03:39, Запрос к функции: get_country, Параметры: (<__main__.WikiLinks object at 0x00000227F7E381F0>, 3), {}
+17-09-2021 11:03:41, Запрос к функции: get_country, Параметры: (<__main__.WikiLinks object at 0x00000227F7E381F0>, 4), {}
+17-09-2021 11:03:44, Запрос к функции: get_country, Параметры: (<__main__.WikiLinks object at 0x00000227F7E381F0>, 5), {}
+17-09-2021 11:08:16, Запрос к функции: get_country, Параметры: (<__main__.WikiLinks object at 0x00000228414E81F0>, 1), {}
+17-09-2021 11:08:18, Запрос к функции: get_country, Параметры: (<__main__.WikiLinks object at 0x00000228414E81F0>, 2), {}
+17-09-2021 11:08:20, Запрос к функции: get_country, Параметры: (<__main__.WikiLinks object at 0x00000228414E81F0>, 3), {}
+17-09-2021 11:08:22, Запрос к функции: get_country, Параметры: (<__main__.WikiLinks object at 0x00000228414E81F0>, 4), {}
+17-09-2021 11:08:25, Запрос к функции: get_country, Параметры: (<__main__.WikiLinks object at 0x00000228414E81F0>, 5), {}
+17-09-2021 11:08:27, Запрос к функции: get_country, Параметры: (<__main__.WikiLinks object at 0x00000228414E81F0>, 6), {}
+17-09-2021 11:08:29, Запрос к функции: get_country, Параметры: (<__main__.WikiLinks object at 0x00000228414E81F0>, 7), {}
+17-09-2021 11:08:31, Запрос к функции: get_country, Параметры: (<__main__.WikiLinks object at 0x00000228414E81F0>, 8), {}
